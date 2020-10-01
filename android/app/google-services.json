@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167098833871",
+    "firebase_url": "https://chat-clone-8d709.firebaseio.com",
+    "project_id": "chat-clone-8d709",
+    "storage_bucket": "chat-clone-8d709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167098833871:android:66465cd0ae9eea0c5190ba",
+        "android_client_info": {
+          "package_name": "com.yinweii.telegramchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167098833871-miho61m1i3uku1eturvekeanoah19525.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yinweii.telegramchatapp",
+            "certificate_hash": "9c880a0fb8799448045882e9221d485ab7333734"
+          }
+        },
+        {
+          "client_id": "167098833871-4ejmu39rpkplfnlc2m4ru3lq0gg3b3e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQNSCNTvi252yhtOv_NpxAdnMZI0yyEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167098833871-4ejmu39rpkplfnlc2m4ru3lq0gg3b3e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
